@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Panchal</h1>
-<h3 align="center">An AI ML Enthusiast with a passion of working on real-time problem statements</h3>
+<h3 align="center">An AI ML Enthusiast with a passion of working on real-time problem statements and software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshupanchal17&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshupanchal17" /> </p>
 
 - 🔭 I’m currently working on **Image Segmentation**
 
-- 🌱 I’m currently learning **GANs and Frameworks like React**
+- 🌱 I’m currently learning **GANs and Frameworks like React and Node.js**
 
 - 👨‍💻 My LinkedIn Id is : [https://www.linkedin.com/in/priyanshu-panchal-12711221b/](https://www.linkedin.com/in/priyanshu-panchal-12711221b/)
 
